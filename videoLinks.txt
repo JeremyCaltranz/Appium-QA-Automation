@@ -1,0 +1,12 @@
+
+
+
+iOS Local Setup: https://www.loom.com/share/ff28152f6ba84d2f80a71cec289a03b5
+
+Debugging, Find & Inspect: https://loom.com/share/2078bb8a37f64efbaf4db55890efebaa
+
+iOS AWS Device Farm: 
+
+Android Local Setup: https://loom.com/share/f06535ff32604200acf0943264143983
+
+Android AWS Device Farm: https://loom.com/share/27a94e72d6ab435084f4ec5ceb54e3fd

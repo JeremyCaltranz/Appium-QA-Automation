@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bed4cd11-3628-4723-998b-96ae902a4b0c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Android/.idea/Android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/.idea/linqtoAndroid.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Smoke.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/Smoke.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/src/test/java/AndroidBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/src/test/java/AndroidBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/src/test/java/Android_ResourceID.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/src/test/java/Android_ResourceID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/iOSBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/iOSBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projectSetup/mobile_automation_environment__setup.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../projectSetup/mobile_automation_environment__setup.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2H0nbLYMaJZqtnx1RsG26abs2LF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jeremycallahan/Documents/Redi-QA/iOS&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.41615453&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="iOS Automations" type="TestNG">
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="14" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Smoke.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bed4cd11-3628-4723-998b-96ae902a4b0c" name="Changes" comment="" />
+      <created>1667430942504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667430942504</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/iOS$iOS_Automations.ic" NAME="iOS Automations Coverage Results" MODIFIED="1670023346360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
