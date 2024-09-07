@@ -2,13 +2,15 @@
 
 This repository is for setting up an Appium automation environment to run tests on an iOS or Android simulator. 
 
+Video of the overall setup and process: https://youtu.be/QNUa2V4aB3w
+
 # HIGH LEVEL PROCESS OVERVIEW
 
-	Video for Local iOS process: https://www.loom.com/share/ff28152f6ba84d2f80a71cec289a03b5
+	Video for Local iOS process: https://youtu.be/PblsW2_ZWCs
 
-	Video for local Android process: https://loom.com/share/f06535ff32604200acf0943264143983
+	Video for local Android process: https://youtu.be/l2t_gDLNRIU
 
-	Video to debug & inspect elements: https://loom.com/share/2078bb8a37f64efbaf4db55890efebaa
+	Video to debug & inspect elements: https://youtu.be/pf0dN0jVK-4
 
 	1. Build a .ipa file for "Running" via xCode
 
@@ -87,9 +89,9 @@ This repository is for setting up an Appium automation environment to run tests 
 
 # ASW DEVICE FARM
 
-	Video for setup in iOS: https://loom.com/share/84df71e99bdd40679994fe5a11114a34
+	Video for setup in iOS: https://youtu.be/TYGOt4FuloE
 
-	Video for setup in Android: https://loom.com/share/27a94e72d6ab435084f4ec5ceb54e3fd
+	Video for setup in Android: https://youtu.be/zWxhSjoW_YU
 
 	1. Open iOSBase.java or AndroidBase.java and comment out the platform, device and app capabilities. Within these files you will see comments on what to comment out.
 
@@ -177,11 +179,9 @@ This repository is for setting up an Appium automation environment to run tests 
 
 # HELPFUL PROJECT SETUP VIDEOS
 
-	Process video Jeremy ran for the McGraw Hill developement team:
+	Overall setup and process:
 
-		https://mcgrawhill.zoom.us/rec/share/lmNxRCv-vy6us0rldASsSFccgzoncFpH-Cn5PU8_a3JcIFaEysm-TH8tlL62yw.jlgBOBKO4-6YGCvr 
-
-		Passcode: B+Cx6tqD
+		https://youtu.be/QNUa2V4aB3w
 
 	Setting Up Appium Locally:
 
