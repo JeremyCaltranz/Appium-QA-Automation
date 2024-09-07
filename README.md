@@ -4,8 +4,6 @@ This repository is for setting up an Appium automation environment to run tests 
 
 Video of the overall setup and process: https://youtu.be/QNUa2V4aB3w
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QNUa2V4aB3w?si=86Kx9i4DIxcw3PqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 # HIGH LEVEL PROCESS OVERVIEW
 
 	Video for Local iOS process: https://youtu.be/PblsW2_ZWCs
