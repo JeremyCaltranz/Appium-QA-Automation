@@ -1,18 +1,6 @@
-# REDI QA AUTOMATION
+# APPIUM QA AUTOMATION
 
 This repository is for setting up an Appium automation environment to run tests on an iOS or Android simulator. 
-
-
-# JIRA TEST CASES
-
-	https://jira.mheducation.com/projects/REDI?selectedItem=com.thed.zephyr.je%3Azephyr-tests-page#test-cycles-tab
-
-	PROCESS
-
-	1. Duplicate an existing test run 
-	2. Rename the test run according to device and build number - example: iOS 1.0 (103)
-	3. Run the Automation tests
-	4. Manually update test cases in Jira as passed / failed /  etc.
 
 # HIGH LEVEL PROCESS OVERVIEW
 
